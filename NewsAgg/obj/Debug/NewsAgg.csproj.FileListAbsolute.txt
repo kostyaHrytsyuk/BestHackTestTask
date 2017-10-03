@@ -1,0 +1,124 @@
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\ApplicationInsights.config
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\roslyn\csc.exe
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\roslyn\csc.exe.config
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\roslyn\csc.rsp
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\roslyn\csi.exe
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\roslyn\csi.rsp
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\roslyn\System.AppContext.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\roslyn\vbc.exe
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\roslyn\vbc.exe.config
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\roslyn\vbc.rsp
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\roslyn\VBCSCompiler.exe
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\NewsAgg.dll.config
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\NewsAgg.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\NewsAgg.pdb
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\Antlr3.Runtime.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\Microsoft.AI.Web.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\Newtonsoft.Json.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\System.Web.Optimization.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\WebGrease.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\System.Web.Optimization.xml
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\Antlr3.Runtime.pdb
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\Newtonsoft.Json.xml
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\bin\Microsoft.AI.Web.xml
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\obj\Debug\NewsAgg.dll
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\obj\Debug\NewsAgg.pdb
+C:\Users\ш\Google Диск\IT\BestHack\NewsAgg\NewsAgg\obj\Debug\NewsAgg.csprojResolveAssemblyReference.cache
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\ApplicationInsights.config
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\roslyn\csc.exe
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\roslyn\csc.exe.config
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\roslyn\csc.rsp
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\roslyn\csi.exe
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\roslyn\csi.rsp
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\roslyn\System.AppContext.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\roslyn\vbc.exe
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\roslyn\vbc.exe.config
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\roslyn\vbc.rsp
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\roslyn\VBCSCompiler.exe
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\NewsAgg.dll.config
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\NewsAgg.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\NewsAgg.pdb
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\Antlr3.Runtime.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\Microsoft.AI.Web.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\Newtonsoft.Json.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\System.Web.Optimization.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\WebGrease.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\System.Web.Optimization.xml
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\Antlr3.Runtime.pdb
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\Newtonsoft.Json.xml
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\bin\Microsoft.AI.Web.xml
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\obj\Debug\NewsAgg.csprojResolveAssemblyReference.cache
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\obj\Debug\NewsAgg.dll
+C:\Users\ш\Documents\GitHub\BestHackTestTask\NewsAgg\obj\Debug\NewsAgg.pdb
